@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\bin\Debug\RichTxtBox kontrola.exe.config
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\bin\Debug\RichTxtBox kontrola.exe
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\bin\Debug\RichTxtBox kontrola.pdb
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\obj\Debug\RichTxtBox kontrola.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\obj\Debug\RichTxtBox_kontrola.Form1.resources
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\obj\Debug\RichTxtBox_kontrola.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\obj\Debug\RichTxtBox kontrola.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\obj\Debug\RichTxtBox kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\obj\Debug\RichTxtBox kontrola.exe
+C:\Users\Ante Ujcic\source\repos\RichTxtBox kontrola\RichTxtBox kontrola\obj\Debug\RichTxtBox kontrola.pdb
